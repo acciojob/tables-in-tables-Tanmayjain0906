@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.hero{
+	align-items: center;
+}
+.col-1 tr td{
+       text-align: center;
+	   padding-inline: 24px
+}
+.col-2 tr td{
+       text-align: center;
+	   padding-inline: 24px
+}
+.table-2{
+	width: 300px;
+}
+.col-4 tr td{
+       text-align: center;
+	   padding-inline: 24px
+}
+.table-4{
+	width: 300px;
+}
+.col-3 tr td{
+       text-align: center;
+	   padding-inline: 9px
+}
+.edit{
+	background-color: black;
+	color: white;
+}
